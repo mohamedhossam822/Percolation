@@ -15,7 +15,7 @@ In a famous scientific problem, researchers are interested in the following ques
 
 <p float="center">
   <img src="https://coursera.cs.princeton.edu/algs4/assignments/percolation/percolation-threshold20.png" width="350" />
-  <img src="https://coursera.cs.princeton.edu/algs4/assignments/percolation/percolation-threshold100.png" width="3500" /> 
+  <img src="https://coursera.cs.princeton.edu/algs4/assignments/percolation/percolation-threshold100.png" width="350" /> 
 </p>
 </p>
 
