@@ -63,7 +63,8 @@ By repeating this computation experiment T times and averaging the results, we o
 To perform a series of computational experiments, we use *PercolationStats*.
 
 #### PercolationStats data type:
-```javapublic class PercolationStats {
+```java
+public class PercolationStats {
 
     // perform independent trials on an n-by-n grid
     public PercolationStats(int n, int trials)
